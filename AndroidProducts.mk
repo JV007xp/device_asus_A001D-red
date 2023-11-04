@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_A001D.mk
+    $(LOCAL_DIR)/lineage_A001D.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_A001D-user \
-    derp_A001D-userdebug \
-    derp_A001D-eng
+    lineage_A001D-user \
+    lineage_A001D-userdebug \
+    lineage_A001D-eng
